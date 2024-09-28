@@ -6,11 +6,8 @@ export function History() {
   return (
     <Box
       sx={{
-        bgcolor: "white",
-        borderRadius: 2,
-        p: 4,
-        maxWidth: 1200,
-        margin: "0 auto",
+        justifyContent: "center",
+        px: 2,
       }}
     >
       <Typography
@@ -18,7 +15,7 @@ export function History() {
         variant="h1"
         sx={{ textAlign: "center", mb: 10 }}
       >
-        SEVENTEEN: History
+        History
       </Typography>
 
       <Divider sx={{ mb: 4 }} />

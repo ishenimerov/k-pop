@@ -17,17 +17,17 @@ export const seventeenMembers: Member[] = [
   {
     name: "Joshua",
     picture:
-      "https://phinf.wevpstatic.net/MjAyNDA0MjBfMjk5/MDAxNzEzNTM5MTA0MTQy.7P02JHLCM7p76w4GG-DYsEy-qkr6tj5sbYuRBqLBAnEg.5htuBUXD6D3x8vCNQWP_LGS8_g3a7VqOf2Ai0y3Gg2Ag.JPEG/7eee70e0-1f3e-4ed0-b0c6-d73ab56ff0e9.jpeg?type=w670", // Replace with actual URL
+      "https://i.pinimg.com/564x/f6/fe/26/f6fe26860166a2223ba1b2c5186e0ffa.jpg", // Replace with actual URL
   },
   {
     name: "Jun",
     picture:
-      "https://kpopping.com/documents/9f/0/800/221109-SEVENTEEN-Jun-Instagram-Update-documents-3.jpeg?v=4ab87", // Replace with actual URL
+      "https://i.pinimg.com/564x/36/a6/2d/36a62d4ffc7075f1df5646293feab1ac.jpg", // Replace with actual URL
   },
   {
     name: "Hoshi",
     picture:
-      "https://www.billboard.com/wp-content/uploads/2022/03/Hoshi-of-SEVENTEEN-2021-billboard-1548.jpg?w=942&h=623&crop=1", // Replace with actual URL
+      "https://i.pinimg.com/564x/ee/3c/bf/ee3cbfac65f5e7706bf60fce97c7b4a2.jpg", // Replace with actual URL
   },
   {
     name: "Wonwoo",
@@ -41,31 +41,32 @@ export const seventeenMembers: Member[] = [
   },
   {
     name: "DK",
-    picture: "https://i.mydramalist.com/ZbwmO_5f.jpg", // Replace with actual URL
+    picture:
+      "https://i.pinimg.com/564x/d2/df/71/d2df711a5732322599c60d9701d9b2e3.jpg", // Replace with actual URL
   },
   {
     name: "Mingyu",
     picture:
-      "https://www.billboard.com/wp-content/uploads/2022/08/Mingyu-of-SEVENTEEN-2021-billboard-1548.jpg", // Replace with actual URL
+      "https://i.pinimg.com/564x/5d/30/e3/5d30e3bb759316168f268c5932dc9ca8.jpg", // Replace with actual URL
   },
   {
     name: "The8",
     picture:
-      "https://www.allkpop.com/upload/2022/03/content/062347/1646628473-202203071334199261-t.jpg", // Replace with actual URL
+      "https://i.pinimg.com/564x/84/17/5e/84175e3591fff4083883ad40b8b8190b.jpg", // Replace with actual URL
   },
   {
     name: "Seungkwan",
     picture:
-      "https://cms.disway.id/uploads/2b136cfe9c9b3b2759b36f0ae7b622f1.jpg", // Replace with actual URL
+      "https://i.pinimg.com/564x/de/00/19/de0019a00edcc8879c906b206636dd9d.jpg", // Replace with actual URL
   },
   {
     name: "Vernon",
     picture:
-      "https://www.rollingstone.com/wp-content/uploads/2022/12/seventeen-vernon-1351200709.jpg?w=1581&h=1054&crop=1", // Replace with actual URL
+      "https://i.pinimg.com/564x/82/da/b4/82dab4bd7c3661ed4c626965ce0c903b.jpg", // Replace with actual URL
   },
   {
     name: "Dino",
     picture:
-      "https://www.nme.com/wp-content/uploads/2023/11/dino-seventeen-mixtape-171123-1392x884.jpg", // Replace with actual URL
+      "https://i.pinimg.com/564x/ef/60/0a/ef600ab34f3004c3b0d2f6a7f90933db.jpg", // Replace with actual URL
   },
 ];

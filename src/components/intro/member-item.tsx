@@ -1,4 +1,4 @@
-import { Avatar, Box, Grid, Typography } from "@mui/material";
+import { Avatar, Box, Typography } from "@mui/material";
 
 export function MemeberItem(props: { name?: string; image?: string }) {
   return (
@@ -8,7 +8,7 @@ export function MemeberItem(props: { name?: string; image?: string }) {
         sx={{ width: 200, height: 200 }}
         src={props.image}
       />
-      <Typography variant="h4">{props.name}</Typography>
+      <Typography variant="h5">{props.name}</Typography>
     </Box>
   );
 }

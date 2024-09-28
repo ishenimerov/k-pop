@@ -9,11 +9,8 @@ function App() {
     <Box
       sx={{
         display: "flex",
-        alignItems: "center",
         flexDirection: "column",
         justifyContent: "center",
-        py: 10,
-        px: 5,
       }}
     >
       <Intro />

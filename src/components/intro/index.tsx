@@ -42,7 +42,6 @@ export function Intro() {
         position: "relative",
         height: "80vh",
         overflow: "hidden",
-        width: "100%",
       }}
     >
       <Box

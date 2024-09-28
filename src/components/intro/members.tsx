@@ -13,8 +13,9 @@ export function Members() {
     <Box
       sx={{
         borderRadius: 20,
-        p: 20,
         transition: "step-start",
+        justifyContent: "center",
+        mb: 20,
       }}
     >
       <Fade in={true} timeout={2000}>
