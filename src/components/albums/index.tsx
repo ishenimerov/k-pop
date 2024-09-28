@@ -13,7 +13,7 @@ export function Albums() {
       sx={{
         borderRadius: 20,
         transition: "step-start",
-        mb: 20,
+        mb: 10,
       }}
     >
       <Fade in={true} timeout={2000}>

@@ -15,7 +15,8 @@ export function Members() {
         borderRadius: 20,
         transition: "step-start",
         justifyContent: "center",
-        mb: 20,
+        mt: 10,
+        mb: 10,
       }}
     >
       <Fade in={true} timeout={2000}>
